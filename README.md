@@ -1,1 +1,3 @@
 # OBJAVA
+
+Solved JAVA Exercises
